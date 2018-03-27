@@ -1,8 +1,12 @@
 {
-  "name": "filepreviews-test",
+  "name": "random-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "Yep, random javascript shiznit",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junosw/random-js.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
