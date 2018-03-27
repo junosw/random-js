@@ -1,0 +1,25 @@
+{
+  "name": "filepreviews-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.188.0",
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "download-file": "^0.1.5",
+    "express": "^4.16.2",
+    "filepreviews": "^2.0.1",
+    "lodash": "^4.17.5",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "sharp": "^0.20.0",
+    "underscore": "^1.8.3",
+    "when": "^3.7.8"
+  }
+}
