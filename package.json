@@ -1,5 +1,6 @@
 {
   "name": "random-js",
+  "type": "module",
   "version": "1.0.0",
   "description": "Yep, random javascript shiznit",
   "main": "index.js",

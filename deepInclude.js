@@ -53,9 +53,10 @@ function deepInclude(env) {
   return _.omit(current, "@include");
 }
 
+console.log(getConfig("local"));
 /*
 
-console.log(getConfig("local"));
+
 
 Output:
 
